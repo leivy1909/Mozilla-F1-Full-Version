@@ -228,4 +228,4 @@ This repository serves as the official landing page for Mozilla F1. The software
 **Get the most recent version of Mozilla F1 today!**
 
 ---
-**Last updated:** 2026-10-11 19:14:44 UTC
+**Last updated:** 2026-10-11 23:16:04 UTC
